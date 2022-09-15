@@ -2,12 +2,11 @@
 
 
 int main(){
+    
 
     int number, count = 0, result = 0, mul = 0, cnt, rem;
     printf("Digite um número: ");
     scanf("%d", &number);
-
-
 
     int q = number;
     while(q != 0)
